@@ -1,0 +1,1885 @@
+[
+  {
+    "name": "KIM Fund 3",
+    "strategies": [
+      "Venture Capital",
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "Global",
+      "Middle East"
+    ],
+    "currency": "CAD",
+    "fundSize": 1199.0,
+    "vintage": 2025,
+    "managers": [
+      "Silver Rock",
+      "Orion Equity",
+      "Blue Lake Fund"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "ZRE Fund 75",
+    "strategies": [
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "CNY",
+    "fundSize": 1269.22,
+    "vintage": 2015,
+    "managers": [
+      "Emerald Holdings"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "LAZ Fund 24",
+    "strategies": [
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "EUR",
+    "fundSize": 3827.87,
+    "vintage": 1993,
+    "managers": [
+      "Summit Partners",
+      "Redwood Investments"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "SFF Fund 87",
+    "strategies": [
+      "Private Debt",
+      "Hedge Fund",
+      "Real Estate"
+    ],
+    "geographies": [
+      "Oceania",
+      "Asia"
+    ],
+    "currency": "USD",
+    "fundSize": 3600.04,
+    "vintage": 2014,
+    "managers": [
+      "Nova Fund",
+      "Apex Ventures"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "LBI Fund 85",
+    "strategies": [
+      "Infrastructure",
+      "Hedge Fund",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Oceania",
+      "South America",
+      "Global"
+    ],
+    "currency": "EUR",
+    "fundSize": 1784.72,
+    "vintage": 2012,
+    "managers": [
+      "Apex Ventures",
+      "Nova Fund"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "BZL Fund 100",
+    "strategies": [
+      "Buyout",
+      "Venture Capital",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Africa",
+      "North America"
+    ],
+    "currency": "JPY",
+    "fundSize": 3622.18,
+    "vintage": 2012,
+    "managers": [
+      "Nova Fund",
+      "Redwood Investments",
+      "Nimbus Group"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "CBU Fund 55",
+    "strategies": [
+      "Real Estate"
+    ],
+    "geographies": [
+      "Oceania"
+    ],
+    "currency": "CNY",
+    "fundSize": 128.85,
+    "vintage": 1995,
+    "managers": [
+      "Redwood Investments",
+      "Blue Lake Fund",
+      "Nova Fund"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "RXZ Fund 6",
+    "strategies": [
+      "Growth Equity",
+      "Infrastructure",
+      "Private Debt"
+    ],
+    "geographies": [
+      "Global",
+      "Africa",
+      "North America"
+    ],
+    "currency": "USD",
+    "fundSize": 4867.88,
+    "vintage": 2000,
+    "managers": [
+      "Alpha Capital",
+      "Emerald Holdings"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "THY Fund 97",
+    "strategies": [
+      "Distressed Assets",
+      "Real Estate",
+      "Private Debt"
+    ],
+    "geographies": [
+      "Oceania"
+    ],
+    "currency": "JPY",
+    "fundSize": 798.71,
+    "vintage": 1994,
+    "managers": [
+      "Titan Capital",
+      "Blue Lake Fund",
+      "Summit Partners"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "BQV Fund 34",
+    "strategies": [
+      "Infrastructure",
+      "Hedge Fund",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Europe",
+      "South America",
+      "Oceania"
+    ],
+    "currency": "CAD",
+    "fundSize": 3115.24,
+    "vintage": 1991,
+    "managers": [
+      "Orion Equity",
+      "Emerald Holdings",
+      "Redwood Investments"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "IGF Fund 86",
+    "strategies": [
+      "Infrastructure",
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "South America",
+      "Middle East"
+    ],
+    "currency": "CNY",
+    "fundSize": 2467.91,
+    "vintage": 2000,
+    "managers": [
+      "Silver Rock"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "KUA Fund 21",
+    "strategies": [
+      "Hedge Fund",
+      "Private Equity",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "South America",
+      "Asia",
+      "Global"
+    ],
+    "currency": "EUR",
+    "fundSize": 2429.86,
+    "vintage": 2000,
+    "managers": [
+      "Crescent Ventures"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "VYY Fund 26",
+    "strategies": [
+      "Infrastructure",
+      "Private Debt"
+    ],
+    "geographies": [
+      "South America",
+      "North America"
+    ],
+    "currency": "AUD",
+    "fundSize": 3983.09,
+    "vintage": 2004,
+    "managers": [
+      "Silver Rock"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "WNH Fund 35",
+    "strategies": [
+      "Growth Equity",
+      "Private Debt",
+      "Real Estate"
+    ],
+    "geographies": [
+      "North America"
+    ],
+    "currency": "USD",
+    "fundSize": 3460.14,
+    "vintage": 1998,
+    "managers": [
+      "Emerald Holdings",
+      "Redwood Investments",
+      "Nimbus Group"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "VOJ Fund 94",
+    "strategies": [
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Africa"
+    ],
+    "currency": "JPY",
+    "fundSize": 2049.66,
+    "vintage": 2014,
+    "managers": [
+      "Redwood Investments",
+      "Nova Fund"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "ARR Fund 88",
+    "strategies": [
+      "Infrastructure",
+      "Mezzanine",
+      "Buyout"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "CNY",
+    "fundSize": 3819.52,
+    "vintage": 2025,
+    "managers": [
+      "Crescent Ventures",
+      "Nova Fund",
+      "Summit Partners"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "MHX Fund 56",
+    "strategies": [
+      "Growth Equity",
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "Oceania",
+      "South America",
+      "Africa"
+    ],
+    "currency": "AUD",
+    "fundSize": 4528.18,
+    "vintage": 1992,
+    "managers": [
+      "Crescent Ventures"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "BVM Fund 76",
+    "strategies": [
+      "Venture Capital",
+      "Mezzanine",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Africa",
+      "Oceania"
+    ],
+    "currency": "JPY",
+    "fundSize": 1900.72,
+    "vintage": 1992,
+    "managers": [
+      "Emerald Holdings",
+      "Crescent Ventures"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "KNW Fund 46",
+    "strategies": [
+      "Private Equity",
+      "Venture Capital",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "Global",
+      "Europe"
+    ],
+    "currency": "USD",
+    "fundSize": 3331.64,
+    "vintage": 1993,
+    "managers": [
+      "Titan Capital",
+      "Nimbus Group",
+      "Apex Ventures"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "TOL Fund 14",
+    "strategies": [
+      "Distressed Assets",
+      "Real Estate"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "USD",
+    "fundSize": 4219.03,
+    "vintage": 1992,
+    "managers": [
+      "Apex Ventures"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "ROE Fund 8",
+    "strategies": [
+      "Infrastructure",
+      "Buyout"
+    ],
+    "geographies": [
+      "Oceania",
+      "Europe"
+    ],
+    "currency": "EUR",
+    "fundSize": 3171.09,
+    "vintage": 2011,
+    "managers": [
+      "Redwood Investments",
+      "Titan Capital",
+      "Summit Partners"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "FCZ Fund 50",
+    "strategies": [
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "North America",
+      "Global"
+    ],
+    "currency": "AUD",
+    "fundSize": 2764.33,
+    "vintage": 2001,
+    "managers": [
+      "Summit Partners",
+      "Redwood Investments",
+      "Orion Equity"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "BDZ Fund 9",
+    "strategies": [
+      "Mezzanine",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "South America",
+      "North America"
+    ],
+    "currency": "EUR",
+    "fundSize": 1766.27,
+    "vintage": 1996,
+    "managers": [
+      "Titan Capital",
+      "Nimbus Group"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "FTH Fund 24",
+    "strategies": [
+      "Buyout",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Africa",
+      "Middle East",
+      "South America"
+    ],
+    "currency": "USD",
+    "fundSize": 875.77,
+    "vintage": 1991,
+    "managers": [
+      "Emerald Holdings",
+      "Summit Partners"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "MQA Fund 8",
+    "strategies": [
+      "Private Debt",
+      "Venture Capital",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Global",
+      "Africa"
+    ],
+    "currency": "AUD",
+    "fundSize": 369.48,
+    "vintage": 2006,
+    "managers": [
+      "Alpha Capital",
+      "Orion Equity"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "ZZJ Fund 20",
+    "strategies": [
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "CAD",
+    "fundSize": 3522.86,
+    "vintage": 2012,
+    "managers": [
+      "Apex Ventures"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "IVE Fund 41",
+    "strategies": [
+      "Growth Equity"
+    ],
+    "geographies": [
+      "South America"
+    ],
+    "currency": "CNY",
+    "fundSize": 4288.99,
+    "vintage": 2009,
+    "managers": [
+      "Silver Rock",
+      "Alpha Capital"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "RBO Fund 39",
+    "strategies": [
+      "Real Estate"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "EUR",
+    "fundSize": 4249.43,
+    "vintage": 2023,
+    "managers": [
+      "Redwood Investments",
+      "Apex Ventures"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "TJZ Fund 14",
+    "strategies": [
+      "Infrastructure"
+    ],
+    "geographies": [
+      "Asia",
+      "Oceania"
+    ],
+    "currency": "AUD",
+    "fundSize": 4756.9,
+    "vintage": 2000,
+    "managers": [
+      "Orion Equity",
+      "Apex Ventures",
+      "Nimbus Group"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "EVG Fund 38",
+    "strategies": [
+      "Mezzanine",
+      "Private Debt",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "CHF",
+    "fundSize": 2981.92,
+    "vintage": 2009,
+    "managers": [
+      "Emerald Holdings",
+      "Alpha Capital",
+      "Silver Rock"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "JVS Fund 69",
+    "strategies": [
+      "Distressed Assets",
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Middle East",
+      "Global"
+    ],
+    "currency": "CNY",
+    "fundSize": 351.02,
+    "vintage": 2012,
+    "managers": [
+      "Silver Rock",
+      "Apex Ventures",
+      "Alpha Capital"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "AQH Fund 14",
+    "strategies": [
+      "Infrastructure",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "North America"
+    ],
+    "currency": "USD",
+    "fundSize": 4797.41,
+    "vintage": 2025,
+    "managers": [
+      "Alpha Capital",
+      "Redwood Investments"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "QUI Fund 12",
+    "strategies": [
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "Africa",
+      "Middle East",
+      "Asia"
+    ],
+    "currency": "CHF",
+    "fundSize": 3370.56,
+    "vintage": 2016,
+    "managers": [
+      "Orion Equity",
+      "Crescent Ventures",
+      "Blue Lake Fund"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "ELT Fund 94",
+    "strategies": [
+      "Real Estate",
+      "Hedge Fund",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "North America",
+      "Africa"
+    ],
+    "currency": "CHF",
+    "fundSize": 2256.01,
+    "vintage": 2008,
+    "managers": [
+      "Orion Equity"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "RFC Fund 10",
+    "strategies": [
+      "Distressed Assets",
+      "Real Estate"
+    ],
+    "geographies": [
+      "South America",
+      "Middle East"
+    ],
+    "currency": "JPY",
+    "fundSize": 4575.15,
+    "vintage": 2024,
+    "managers": [
+      "Crescent Ventures"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "EYM Fund 17",
+    "strategies": [
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Africa",
+      "Middle East",
+      "North America"
+    ],
+    "currency": "CAD",
+    "fundSize": 3099.79,
+    "vintage": 2010,
+    "managers": [
+      "Silver Rock",
+      "Orion Equity",
+      "Titan Capital"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "YXO Fund 30",
+    "strategies": [
+      "Mezzanine",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Asia"
+    ],
+    "currency": "CHF",
+    "fundSize": 1012.99,
+    "vintage": 2006,
+    "managers": [
+      "Crescent Ventures",
+      "Redwood Investments",
+      "Blue Lake Fund"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "SUZ Fund 59",
+    "strategies": [
+      "Venture Capital",
+      "Mezzanine",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Europe",
+      "Africa"
+    ],
+    "currency": "CAD",
+    "fundSize": 292.86,
+    "vintage": 2017,
+    "managers": [
+      "Emerald Holdings"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "OOV Fund 86",
+    "strategies": [
+      "Growth Equity",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Africa",
+      "North America",
+      "South America"
+    ],
+    "currency": "CHF",
+    "fundSize": 1640.12,
+    "vintage": 2017,
+    "managers": [
+      "Alpha Capital",
+      "Blue Lake Fund",
+      "Redwood Investments"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "AKE Fund 81",
+    "strategies": [
+      "Distressed Assets",
+      "Growth Equity"
+    ],
+    "geographies": [
+      "Global"
+    ],
+    "currency": "CAD",
+    "fundSize": 4314.5,
+    "vintage": 2016,
+    "managers": [
+      "Nimbus Group"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "YXG Fund 36",
+    "strategies": [
+      "Private Equity"
+    ],
+    "geographies": [
+      "Global",
+      "Europe",
+      "Asia"
+    ],
+    "currency": "JPY",
+    "fundSize": 3821.3,
+    "vintage": 2019,
+    "managers": [
+      "Summit Partners",
+      "Emerald Holdings"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "TMS Fund 9",
+    "strategies": [
+      "Private Debt"
+    ],
+    "geographies": [
+      "South America"
+    ],
+    "currency": "EUR",
+    "fundSize": 746.88,
+    "vintage": 1995,
+    "managers": [
+      "Redwood Investments",
+      "Blue Lake Fund"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "TOI Fund 96",
+    "strategies": [
+      "Real Estate"
+    ],
+    "geographies": [
+      "Europe"
+    ],
+    "currency": "GBP",
+    "fundSize": 1726.11,
+    "vintage": 2007,
+    "managers": [
+      "Nova Fund",
+      "Blue Lake Fund"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "ARO Fund 57",
+    "strategies": [
+      "Real Estate",
+      "Buyout",
+      "Private Equity"
+    ],
+    "geographies": [
+      "North America",
+      "Middle East"
+    ],
+    "currency": "EUR",
+    "fundSize": 4713.67,
+    "vintage": 2016,
+    "managers": [
+      "Crescent Ventures",
+      "Blue Lake Fund"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "PGN Fund 87",
+    "strategies": [
+      "Buyout",
+      "Real Estate"
+    ],
+    "geographies": [
+      "Asia"
+    ],
+    "currency": "CAD",
+    "fundSize": 2812.92,
+    "vintage": 2001,
+    "managers": [
+      "Titan Capital",
+      "Summit Partners"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "TIJ Fund 25",
+    "strategies": [
+      "Real Estate"
+    ],
+    "geographies": [
+      "Middle East",
+      "North America"
+    ],
+    "currency": "AUD",
+    "fundSize": 1410.83,
+    "vintage": 2009,
+    "managers": [
+      "Apex Ventures"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "QPW Fund 88",
+    "strategies": [
+      "Distressed Assets",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "Oceania"
+    ],
+    "currency": "CNY",
+    "fundSize": 1338.83,
+    "vintage": 1993,
+    "managers": [
+      "Summit Partners",
+      "Blue Lake Fund"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "JZB Fund 80",
+    "strategies": [
+      "Venture Capital",
+      "Real Estate"
+    ],
+    "geographies": [
+      "Global",
+      "Africa",
+      "South America"
+    ],
+    "currency": "CHF",
+    "fundSize": 2458.21,
+    "vintage": 1995,
+    "managers": [
+      "Nova Fund",
+      "Orion Equity"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "DLM Fund 27",
+    "strategies": [
+      "Growth Equity",
+      "Buyout"
+    ],
+    "geographies": [
+      "South America",
+      "Middle East"
+    ],
+    "currency": "USD",
+    "fundSize": 4021.5,
+    "vintage": 1991,
+    "managers": [
+      "Nova Fund",
+      "Silver Rock"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "GSK Fund 20",
+    "strategies": [
+      "Distressed Assets",
+      "Growth Equity",
+      "Real Estate"
+    ],
+    "geographies": [
+      "Europe",
+      "Global",
+      "Middle East"
+    ],
+    "currency": "EUR",
+    "fundSize": 467.58,
+    "vintage": 2004,
+    "managers": [
+      "Blue Lake Fund"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "CNF Fund 5",
+    "strategies": [
+      "Private Equity",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Global",
+      "Oceania",
+      "Middle East"
+    ],
+    "currency": "GBP",
+    "fundSize": 1039.95,
+    "vintage": 1993,
+    "managers": [
+      "Redwood Investments",
+      "Emerald Holdings"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "TCO Fund 22",
+    "strategies": [
+      "Real Estate",
+      "Private Debt",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Asia"
+    ],
+    "currency": "JPY",
+    "fundSize": 1009.07,
+    "vintage": 2004,
+    "managers": [
+      "Nova Fund",
+      "Nimbus Group",
+      "Silver Rock"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "DXU Fund 36",
+    "strategies": [
+      "Growth Equity",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "GBP",
+    "fundSize": 3352.06,
+    "vintage": 2003,
+    "managers": [
+      "Apex Ventures"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "JCW Fund 43",
+    "strategies": [
+      "Private Equity",
+      "Real Estate"
+    ],
+    "geographies": [
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "currency": "AUD",
+    "fundSize": 4776.9,
+    "vintage": 1994,
+    "managers": [
+      "Redwood Investments",
+      "Emerald Holdings"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "DHH Fund 32",
+    "strategies": [
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Middle East",
+      "Europe",
+      "Africa"
+    ],
+    "currency": "AUD",
+    "fundSize": 3589.32,
+    "vintage": 1990,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "XXC Fund 55",
+    "strategies": [
+      "Buyout"
+    ],
+    "geographies": [
+      "North America"
+    ],
+    "currency": "USD",
+    "fundSize": 3143.04,
+    "vintage": 2003,
+    "managers": [
+      "Redwood Investments",
+      "Nova Fund",
+      "Blue Lake Fund"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "CZO Fund 84",
+    "strategies": [
+      "Real Estate",
+      "Infrastructure",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Europe",
+      "South America"
+    ],
+    "currency": "EUR",
+    "fundSize": 2086.42,
+    "vintage": 2012,
+    "managers": [
+      "Silver Rock",
+      "Emerald Holdings",
+      "Nimbus Group"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "VNJ Fund 44",
+    "strategies": [
+      "Private Equity",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "Middle East",
+      "Africa"
+    ],
+    "currency": "JPY",
+    "fundSize": 1726.79,
+    "vintage": 2004,
+    "managers": [
+      "Nova Fund",
+      "Summit Partners"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "ALJ Fund 62",
+    "strategies": [
+      "Venture Capital"
+    ],
+    "geographies": [
+      "South America",
+      "North America",
+      "Oceania"
+    ],
+    "currency": "CHF",
+    "fundSize": 190.82,
+    "vintage": 1998,
+    "managers": [
+      "Titan Capital"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "BVQ Fund 13",
+    "strategies": [
+      "Growth Equity",
+      "Distressed Assets",
+      "Buyout"
+    ],
+    "geographies": [
+      "North America"
+    ],
+    "currency": "CAD",
+    "fundSize": 3865.16,
+    "vintage": 1997,
+    "managers": [
+      "Crescent Ventures",
+      "Nova Fund",
+      "Titan Capital"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "DZJ Fund 65",
+    "strategies": [
+      "Private Debt"
+    ],
+    "geographies": [
+      "Global",
+      "Africa",
+      "Middle East"
+    ],
+    "currency": "CHF",
+    "fundSize": 2803.64,
+    "vintage": 2023,
+    "managers": [
+      "Summit Partners",
+      "Crescent Ventures",
+      "Nimbus Group"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "JTQ Fund 68",
+    "strategies": [
+      "Private Equity",
+      "Real Estate",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Africa"
+    ],
+    "currency": "CHF",
+    "fundSize": 1223.01,
+    "vintage": 2022,
+    "managers": [
+      "Blue Lake Fund",
+      "Nimbus Group"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "ZTT Fund 47",
+    "strategies": [
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Oceania"
+    ],
+    "currency": "JPY",
+    "fundSize": 2896.49,
+    "vintage": 2005,
+    "managers": [
+      "Crescent Ventures",
+      "Blue Lake Fund"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "FIK Fund 22",
+    "strategies": [
+      "Private Equity",
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "South America",
+      "Europe"
+    ],
+    "currency": "JPY",
+    "fundSize": 263.9,
+    "vintage": 1993,
+    "managers": [
+      "Nova Fund"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "MHA Fund 30",
+    "strategies": [
+      "Infrastructure",
+      "Real Estate",
+      "Buyout"
+    ],
+    "geographies": [
+      "Asia",
+      "Oceania",
+      "South America"
+    ],
+    "currency": "CNY",
+    "fundSize": 368.48,
+    "vintage": 2016,
+    "managers": [
+      "Titan Capital",
+      "Nova Fund"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "XII Fund 72",
+    "strategies": [
+      "Growth Equity",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "South America",
+      "North America"
+    ],
+    "currency": "CAD",
+    "fundSize": 4108.36,
+    "vintage": 1998,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "RNL Fund 42",
+    "strategies": [
+      "Infrastructure"
+    ],
+    "geographies": [
+      "North America",
+      "Africa",
+      "Middle East"
+    ],
+    "currency": "CAD",
+    "fundSize": 1615.45,
+    "vintage": 2004,
+    "managers": [
+      "Redwood Investments",
+      "Nova Fund"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "PWP Fund 16",
+    "strategies": [
+      "Growth Equity"
+    ],
+    "geographies": [
+      "Middle East",
+      "Global"
+    ],
+    "currency": "CAD",
+    "fundSize": 2525.13,
+    "vintage": 1993,
+    "managers": [
+      "Orion Equity",
+      "Nimbus Group"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "UVR Fund 68",
+    "strategies": [
+      "Private Debt"
+    ],
+    "geographies": [
+      "Africa",
+      "Middle East"
+    ],
+    "currency": "USD",
+    "fundSize": 2474.23,
+    "vintage": 2025,
+    "managers": [
+      "Apex Ventures"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "FUL Fund 69",
+    "strategies": [
+      "Private Debt",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "South America"
+    ],
+    "currency": "GBP",
+    "fundSize": 2864.12,
+    "vintage": 1998,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "HFT Fund 61",
+    "strategies": [
+      "Growth Equity",
+      "Buyout"
+    ],
+    "geographies": [
+      "Global",
+      "Africa",
+      "Asia"
+    ],
+    "currency": "CNY",
+    "fundSize": 3862.71,
+    "vintage": 2014,
+    "managers": [
+      "Silver Rock"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "BTG Fund 73",
+    "strategies": [
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Oceania"
+    ],
+    "currency": "GBP",
+    "fundSize": 3134.2,
+    "vintage": 2000,
+    "managers": [
+      "Blue Lake Fund"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "HMR Fund 32",
+    "strategies": [
+      "Private Equity"
+    ],
+    "geographies": [
+      "Africa"
+    ],
+    "currency": "AUD",
+    "fundSize": 4867.32,
+    "vintage": 2004,
+    "managers": [
+      "Apex Ventures",
+      "Emerald Holdings"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "MIR Fund 32",
+    "strategies": [
+      "Real Estate",
+      "Growth Equity",
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "GBP",
+    "fundSize": 3417.66,
+    "vintage": 2000,
+    "managers": [
+      "Silver Rock",
+      "Blue Lake Fund",
+      "Crescent Ventures"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "WQP Fund 13",
+    "strategies": [
+      "Growth Equity"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "EUR",
+    "fundSize": 3818.3,
+    "vintage": 2007,
+    "managers": [
+      "Emerald Holdings",
+      "Apex Ventures",
+      "Nimbus Group"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "QIM Fund 10",
+    "strategies": [
+      "Mezzanine",
+      "Venture Capital"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "CNY",
+    "fundSize": 782.37,
+    "vintage": 1995,
+    "managers": [
+      "Blue Lake Fund"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "RHB Fund 17",
+    "strategies": [
+      "Growth Equity",
+      "Private Equity"
+    ],
+    "geographies": [
+      "Oceania",
+      "Asia",
+      "South America"
+    ],
+    "currency": "AUD",
+    "fundSize": 1710.84,
+    "vintage": 2015,
+    "managers": [
+      "Orion Equity",
+      "Apex Ventures"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "BBK Fund 60",
+    "strategies": [
+      "Distressed Assets",
+      "Hedge Fund",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "CHF",
+    "fundSize": 908.17,
+    "vintage": 2017,
+    "managers": [
+      "Nova Fund",
+      "Apex Ventures"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "LTJ Fund 95",
+    "strategies": [
+      "Hedge Fund",
+      "Growth Equity"
+    ],
+    "geographies": [
+      "Africa",
+      "Asia",
+      "Europe"
+    ],
+    "currency": "CNY",
+    "fundSize": 2249.78,
+    "vintage": 2014,
+    "managers": [
+      "Redwood Investments",
+      "Titan Capital"
+    ],
+    "description": "Specializes in distressed debt opportunities."
+  },
+  {
+    "name": "VSN Fund 13",
+    "strategies": [
+      "Private Equity",
+      "Growth Equity",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Africa"
+    ],
+    "currency": "USD",
+    "fundSize": 1621.25,
+    "vintage": 2024,
+    "managers": [
+      "Silver Rock",
+      "Titan Capital",
+      "Orion Equity"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "UWR Fund 57",
+    "strategies": [
+      "Hedge Fund",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Asia",
+      "North America",
+      "Global"
+    ],
+    "currency": "CNY",
+    "fundSize": 618.89,
+    "vintage": 2004,
+    "managers": [
+      "Nimbus Group",
+      "Crescent Ventures"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "JFO Fund 13",
+    "strategies": [
+      "Venture Capital",
+      "Private Debt"
+    ],
+    "geographies": [
+      "Europe",
+      "Middle East",
+      "South America"
+    ],
+    "currency": "CNY",
+    "fundSize": 3551.19,
+    "vintage": 2021,
+    "managers": [
+      "Crescent Ventures"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "RLN Fund 18",
+    "strategies": [
+      "Distressed Assets",
+      "Real Estate",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Asia",
+      "Oceania"
+    ],
+    "currency": "GBP",
+    "fundSize": 4909.64,
+    "vintage": 2006,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "HDZ Fund 19",
+    "strategies": [
+      "Real Estate"
+    ],
+    "geographies": [
+      "North America"
+    ],
+    "currency": "AUD",
+    "fundSize": 2749.79,
+    "vintage": 2000,
+    "managers": [
+      "Nimbus Group"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "AVV Fund 20",
+    "strategies": [
+      "Buyout",
+      "Private Debt",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Africa",
+      "North America",
+      "Oceania"
+    ],
+    "currency": "CHF",
+    "fundSize": 4489.83,
+    "vintage": 2023,
+    "managers": [
+      "Nimbus Group"
+    ],
+    "description": "Hedge fund with a long/short equity strategy."
+  },
+  {
+    "name": "ATS Fund 63",
+    "strategies": [
+      "Distressed Assets",
+      "Real Estate"
+    ],
+    "geographies": [
+      "South America"
+    ],
+    "currency": "CNY",
+    "fundSize": 1811.45,
+    "vintage": 2002,
+    "managers": [
+      "Redwood Investments",
+      "Blue Lake Fund",
+      "Nimbus Group"
+    ],
+    "description": "Mezzanine financing for late-stage startups."
+  },
+  {
+    "name": "EMB Fund 30",
+    "strategies": [
+      "Buyout",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Europe",
+      "Oceania"
+    ],
+    "currency": "AUD",
+    "fundSize": 4509.15,
+    "vintage": 2008,
+    "managers": [
+      "Titan Capital",
+      "Orion Equity",
+      "Redwood Investments"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "OCG Fund 61",
+    "strategies": [
+      "Buyout",
+      "Hedge Fund",
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "Middle East",
+      "Oceania"
+    ],
+    "currency": "GBP",
+    "fundSize": 4297.78,
+    "vintage": 2002,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "QXG Fund 4",
+    "strategies": [
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "South America",
+      "Oceania"
+    ],
+    "currency": "CAD",
+    "fundSize": 3648.9,
+    "vintage": 1996,
+    "managers": [
+      "Summit Partners",
+      "Titan Capital",
+      "Alpha Capital"
+    ],
+    "description": "Focused on early-stage tech companies."
+  },
+  {
+    "name": "PWV Fund 80",
+    "strategies": [
+      "Hedge Fund",
+      "Mezzanine"
+    ],
+    "geographies": [
+      "South America",
+      "North America"
+    ],
+    "currency": "USD",
+    "fundSize": 4132.7,
+    "vintage": 1998,
+    "managers": [
+      "Blue Lake Fund"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "OTQ Fund 73",
+    "strategies": [
+      "Mezzanine",
+      "Buyout",
+      "Hedge Fund"
+    ],
+    "geographies": [
+      "Africa"
+    ],
+    "currency": "AUD",
+    "fundSize": 1914.78,
+    "vintage": 2015,
+    "managers": [
+      "Crescent Ventures",
+      "Blue Lake Fund"
+    ],
+    "description": "Growth equity fund for mid-sized enterprises."
+  },
+  {
+    "name": "LYS Fund 65",
+    "strategies": [
+      "Buyout"
+    ],
+    "geographies": [
+      "Oceania",
+      "Europe"
+    ],
+    "currency": "GBP",
+    "fundSize": 4422.35,
+    "vintage": 1995,
+    "managers": [
+      "Orion Equity",
+      "Crescent Ventures"
+    ],
+    "description": "Private equity fund with a global mandate."
+  },
+  {
+    "name": "QQU Fund 51",
+    "strategies": [
+      "Buyout",
+      "Real Estate",
+      "Infrastructure"
+    ],
+    "geographies": [
+      "Oceania",
+      "Asia",
+      "Global"
+    ],
+    "currency": "CHF",
+    "fundSize": 2626.63,
+    "vintage": 2015,
+    "managers": [
+      "Silver Rock",
+      "Emerald Holdings"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "BLM Fund 21",
+    "strategies": [
+      "Venture Capital"
+    ],
+    "geographies": [
+      "North America"
+    ],
+    "currency": "CAD",
+    "fundSize": 3927.62,
+    "vintage": 2015,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "XEQ Fund 81",
+    "strategies": [
+      "Distressed Assets"
+    ],
+    "geographies": [
+      "South America",
+      "Oceania",
+      "Middle East"
+    ],
+    "currency": "GBP",
+    "fundSize": 4029.7,
+    "vintage": 2003,
+    "managers": [
+      "Redwood Investments",
+      "Silver Rock"
+    ],
+    "description": "Invests in renewable energy infrastructure."
+  },
+  {
+    "name": "ATB Fund 14",
+    "strategies": [
+      "Growth Equity"
+    ],
+    "geographies": [
+      "North America",
+      "Asia",
+      "Middle East"
+    ],
+    "currency": "AUD",
+    "fundSize": 2130.02,
+    "vintage": 2016,
+    "managers": [
+      "Titan Capital"
+    ],
+    "description": "Targets undervalued real estate in emerging markets."
+  },
+  {
+    "name": "NQK Fund 94",
+    "strategies": [
+      "Mezzanine",
+      "Growth Equity",
+      "Buyout"
+    ],
+    "geographies": [
+      "Middle East"
+    ],
+    "currency": "EUR",
+    "fundSize": 2166.39,
+    "vintage": 2023,
+    "managers": [
+      "Orion Equity",
+      "Emerald Holdings",
+      "Silver Rock"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "ZGC Fund 66",
+    "strategies": [
+      "Infrastructure"
+    ],
+    "geographies": [
+      "North America",
+      "Global"
+    ],
+    "currency": "CHF",
+    "fundSize": 3405.07,
+    "vintage": 2025,
+    "managers": [
+      "Emerald Holdings",
+      "Blue Lake Fund"
+    ],
+    "description": "Diversified across multiple sectors and regions."
+  },
+  {
+    "name": "LIL Fund 96",
+    "strategies": [
+      "Real Estate"
+    ],
+    "geographies": [
+      "Oceania"
+    ],
+    "currency": "CHF",
+    "fundSize": 3134.43,
+    "vintage": 2001,
+    "managers": [
+      "Emerald Holdings",
+      "Crescent Ventures",
+      "Silver Rock"
+    ],
+    "description": "Real estate investments in developed urban areas."
+  },
+  {
+    "name": "MCP Fund 9",
+    "strategies": [
+      "Mezzanine"
+    ],
+    "geographies": [
+      "Asia"
+    ],
+    "currency": "USD",
+    "fundSize": 3082.01,
+    "vintage": 2022,
+    "managers": [
+      "Redwood Investments"
+    ],
+    "description": "Focused on early-stage tech companies."
+  }
+]
