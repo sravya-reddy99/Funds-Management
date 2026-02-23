@@ -59,3 +59,7 @@ You are expected to create at least **three components**:
 On the backend, I created the required APIs to fetch, update, and delete data from the JSON file, ensuring changes are persisted properly. On the frontend, I built the Admin Data Table with filtering, sorting, and pagination, along with a user-friendly detail view and an auto-saving admin edit view.
 I also spent time improving the UI to make it clean, modern, and visually engaging while keeping the experience intuitive.
 I look forward to your feedback!
+- Remove all `node_modules` folder
+- Zip the project folder and send your submissions
+    - To: jonathanc@seclink.com
+    - CC: team@seclink.com
