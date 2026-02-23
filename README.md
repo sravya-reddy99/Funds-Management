@@ -59,3 +59,13 @@ You are expected to create at least **three components**:
 On the backend, I created the required APIs to fetch, update, and delete data from the JSON file, ensuring changes are persisted properly. On the frontend, I built the Admin Data Table with filtering, sorting, and pagination, along with a user-friendly detail view and an auto-saving admin edit view.
 I also spent time improving the UI to make it clean, modern, and visually engaging while keeping the experience intuitive.
 I look forward to your feedback!
+
+<img width="973" height="736" alt="image" src="https://github.com/user-attachments/assets/fa90c144-e588-4aea-9a52-9c49d3937f23" />
+
+<img width="1018" height="520" alt="image" src="https://github.com/user-attachments/assets/72a2cedd-9757-48c7-90cb-a32caa36f728" />
+
+<img width="874" height="676" alt="image" src="https://github.com/user-attachments/assets/25d1cf56-9347-4682-ac72-a7f65cbfe271" />
+
+
+
+
