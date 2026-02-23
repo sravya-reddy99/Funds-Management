@@ -1,0 +1,92 @@
+<div class="bg">
+  <div class="page">
+    <div class="topbar">
+      <a class="link" routerLink="/admin">← Back to Admin Table</a>
+      <a class="link" *ngIf="fund()" [routerLink]="['/fund', fund()!.id]">View user page →</a>
+    </div>
+
+    <div *ngIf="loading()" class="state">Loading…</div>
+    <div *ngIf="error()" class="state error">{{ error() }}</div>
+
+    <section *ngIf="!loading() && fund()" class="card">
+      <header class="title">
+        <div>
+          <div class="badge">Admin Edit</div>
+          <h1>Edit Fund</h1>
+          <p class="sub">
+            Auto-saves after you stop typing.
+            <span *ngIf="saving()" class="saving">Saving…</span>
+            <span *ngIf="!saving() && savedAt()" class="saved">Saved at {{ savedAt() }}</span>
+          </p>
+        </div>
+
+        <div class="actions">
+          <button class="btn ghost" (click)="saveNow()">Save now</button>
+          <button class="btn danger" (click)="deleteFund()">Delete</button>
+        </div>
+      </header>
+
+      <div class="grid">
+        <div class="field">
+          <label>Name</label>
+          <input [(ngModel)]="name" (ngModelChange)="markDirty()" (blur)="onBlur()" />
+        </div>
+
+        <div class="field">
+          <label>Currency</label>
+          <input [(ngModel)]="currency" (ngModelChange)="markDirty()" (blur)="onBlur()" />
+        </div>
+
+        <div class="field">
+          <label>Fund Size</label>
+          <input type="number" [(ngModel)]="fundSize" (ngModelChange)="markDirty()" (blur)="onBlur()" />
+        </div>
+
+        <div class="field">
+          <label>Vintage</label>
+          <input type="number" [(ngModel)]="vintage" (ngModelChange)="markDirty()" (blur)="onBlur()" />
+        </div>
+
+        <div class="field wide">
+          <label>Description</label>
+          <textarea
+            rows="4"
+            [(ngModel)]="description"
+            (ngModelChange)="markDirty()"
+            (blur)="onBlur()"
+          ></textarea>
+        </div>
+
+        <div class="field wide">
+          <label>Strategies (comma separated)</label>
+          <input
+            [(ngModel)]="strategiesCsv"
+            (ngModelChange)="markDirty()"
+            (blur)="onBlur()"
+            placeholder="e.g., Venture Capital, Hedge Fund"
+          />
+        </div>
+
+        <div class="field wide">
+          <label>Geographies (comma separated)</label>
+          <input
+            [(ngModel)]="geographiesCsv"
+            (ngModelChange)="markDirty()"
+            (blur)="onBlur()"
+            placeholder="e.g., Global, Middle East"
+          />
+        </div>
+
+        <div class="field wide">
+          <label>Managers (comma separated)</label>
+          <input
+            [(ngModel)]="managersCsv"
+            (ngModelChange)="markDirty()"
+            (blur)="onBlur()"
+            placeholder="e.g., Silver Rock, Orion Equity"
+          />
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

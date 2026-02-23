@@ -1,0 +1,52 @@
+<div class="bg">
+  <div class="page">
+    <div class="topbar">
+      <a class="link" routerLink="/admin">← Back to Admin Table</a>
+      <a class="btn primary" *ngIf="fund()" [routerLink]="['/admin/edit', fund()!.id]">Edit</a>
+    </div>
+
+    <div *ngIf="loading()" class="state">Loading…</div>
+    <div *ngIf="error()" class="state error">{{ error() }}</div>
+
+    <section *ngIf="fund()" class="card">
+      <header class="title">
+        <div class="badge">User View</div>
+        <h1>{{ fund()!.name }}</h1>
+
+        <div class="meta">
+          <span class="pill">{{ fund()!.currency }}</span>
+          <span class="pill">Vintage: {{ fund()!.vintage }}</span>
+          <span class="pill">Fund Size: {{ fund()!.fundSize }}</span>
+        </div>
+      </header>
+
+      <div class="grid">
+        <div class="block wide">
+          <h3>Description</h3>
+          <p>{{ fund()!.description }}</p>
+        </div>
+
+        <div class="block">
+          <h3>Strategies</h3>
+          <div class="tags">
+            <span class="tag tag-strategy" *ngFor="let s of fund()!.strategies">{{ s }}</span>
+          </div>
+        </div>
+
+        <div class="block">
+          <h3>Geographies</h3>
+          <div class="tags">
+            <span class="tag tag-geo" *ngFor="let g of fund()!.geographies">{{ g }}</span>
+          </div>
+        </div>
+
+        <div class="block wide">
+          <h3>Managers</h3>
+          <div class="tags">
+            <span class="tag tag-manager" *ngFor="let m of fund()!.managers">{{ m }}</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</div>

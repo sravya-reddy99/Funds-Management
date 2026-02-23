@@ -1,5 +1,6 @@
 [
   {
+    "id": "beab0a30-1057-4016-b190-be967a9aa5bb",
     "name": "KIM Fund 3",
     "strategies": [
       "Venture Capital",
@@ -10,7 +11,7 @@
       "Middle East"
     ],
     "currency": "CAD",
-    "fundSize": 1199.0,
+    "fundSize": 1199,
     "vintage": 2025,
     "managers": [
       "Silver Rock",
@@ -20,6 +21,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "71045403-88fa-4cc7-bfa9-5d279834a6dc",
     "name": "ZRE Fund 75",
     "strategies": [
       "Mezzanine"
@@ -36,6 +38,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "1b98c1b4-17fa-42fa-be1f-23fc8cb0f18d",
     "name": "LAZ Fund 24",
     "strategies": [
       "Distressed Assets"
@@ -53,6 +56,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "2d0f1738-42a6-4957-9960-899fe49305d9",
     "name": "SFF Fund 87",
     "strategies": [
       "Private Debt",
@@ -73,6 +77,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "fcea9226-e48b-4c8a-bc96-fc34f77e4a7b",
     "name": "LBI Fund 85",
     "strategies": [
       "Infrastructure",
@@ -94,6 +99,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "38bde14a-2285-43cc-8292-49fc8c7546b1",
     "name": "BZL Fund 100",
     "strategies": [
       "Buyout",
@@ -115,6 +121,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "bf9913ad-1729-4bdb-b416-d2c8f466bdec",
     "name": "CBU Fund 55",
     "strategies": [
       "Real Estate"
@@ -133,6 +140,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "4f74411e-b9e8-4b32-9f73-e00f79f15307",
     "name": "RXZ Fund 6",
     "strategies": [
       "Growth Equity",
@@ -154,6 +162,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "72ed93e4-c6e9-448e-b950-66e8216bb29e",
     "name": "THY Fund 97",
     "strategies": [
       "Distressed Assets",
@@ -174,6 +183,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "e980ca06-69ea-4086-bcef-b85e063bef8a",
     "name": "BQV Fund 34",
     "strategies": [
       "Infrastructure",
@@ -196,6 +206,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "c47f7172-49ca-4d0d-8df7-73b949d80322",
     "name": "IGF Fund 86",
     "strategies": [
       "Infrastructure",
@@ -214,6 +225,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "bde6351d-01f9-4b49-a5ca-2b7822529367",
     "name": "KUA Fund 21",
     "strategies": [
       "Hedge Fund",
@@ -234,6 +246,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "236c7a52-f4bd-44fb-b284-1b2c82a29a8d",
     "name": "VYY Fund 26",
     "strategies": [
       "Infrastructure",
@@ -252,6 +265,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "ca9881bd-faff-411e-8664-c95df556d351",
     "name": "WNH Fund 35",
     "strategies": [
       "Growth Equity",
@@ -272,6 +286,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "79bfe531-7412-480c-9b33-3e21a8a06eed",
     "name": "VOJ Fund 94",
     "strategies": [
       "Distressed Assets"
@@ -289,6 +304,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "906778a1-3309-4f78-9941-a76a5de99f7d",
     "name": "ARR Fund 88",
     "strategies": [
       "Infrastructure",
@@ -309,6 +325,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "3a4cf3c5-80c8-4d7e-bdca-02979dfee9cf",
     "name": "MHX Fund 56",
     "strategies": [
       "Growth Equity",
@@ -328,6 +345,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "ade5c5e7-9744-402f-9814-202456fb8260",
     "name": "BVM Fund 76",
     "strategies": [
       "Venture Capital",
@@ -348,6 +366,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "77759911-2e8a-4f2e-85ec-bad002287ee2",
     "name": "KNW Fund 46",
     "strategies": [
       "Private Equity",
@@ -369,6 +388,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "422bc3d0-4405-4f23-8aa6-7983db1fab22",
     "name": "TOL Fund 14",
     "strategies": [
       "Distressed Assets",
@@ -386,6 +406,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "93651da1-c25f-483c-b905-a3ed0aed1e17",
     "name": "ROE Fund 8",
     "strategies": [
       "Infrastructure",
@@ -406,6 +427,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "ed0ec91d-4406-4a98-bb39-b368bd2b08a0",
     "name": "FCZ Fund 50",
     "strategies": [
       "Distressed Assets"
@@ -425,6 +447,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "123c32d7-00fe-4940-85e8-2676690a1dac",
     "name": "BDZ Fund 9",
     "strategies": [
       "Mezzanine",
@@ -444,6 +467,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "d4fa4c0c-f4d6-4016-871c-219fed5a8a98",
     "name": "FTH Fund 24",
     "strategies": [
       "Buyout",
@@ -464,6 +488,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "b64d0264-d1ea-4221-8c5e-813b4345be0d",
     "name": "MQA Fund 8",
     "strategies": [
       "Private Debt",
@@ -484,6 +509,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "c515498c-0249-47eb-b90e-18548ba9ea37",
     "name": "ZZJ Fund 20",
     "strategies": [
       "Hedge Fund"
@@ -500,6 +526,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "67bd33c5-fcc2-4e72-9318-af8379a9c4e8",
     "name": "IVE Fund 41",
     "strategies": [
       "Growth Equity"
@@ -517,6 +544,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "af64fea3-d924-4224-ac57-7fc57c982c37",
     "name": "RBO Fund 39",
     "strategies": [
       "Real Estate"
@@ -534,6 +562,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "8c109c60-084f-42fb-a60c-c66da6678283",
     "name": "TJZ Fund 14",
     "strategies": [
       "Infrastructure"
@@ -553,6 +582,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "44f5a918-660c-40b8-b483-fef4445c65d4",
     "name": "EVG Fund 38",
     "strategies": [
       "Mezzanine",
@@ -573,6 +603,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "641f5b14-5eec-4143-b56a-65ea8a57da7c",
     "name": "JVS Fund 69",
     "strategies": [
       "Distressed Assets",
@@ -594,6 +625,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "5668f123-0299-46d2-8988-3ad5a58e6030",
     "name": "AQH Fund 14",
     "strategies": [
       "Infrastructure",
@@ -612,6 +644,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "956a2531-da7c-4d38-b45b-0a5a7ef80bd5",
     "name": "QUI Fund 12",
     "strategies": [
       "Hedge Fund"
@@ -632,6 +665,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "8857824b-e843-4ebd-9e16-ca3c64622a18",
     "name": "ELT Fund 94",
     "strategies": [
       "Real Estate",
@@ -651,6 +685,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "06c21bec-5abd-4540-9fdc-736a461a0d78",
     "name": "RFC Fund 10",
     "strategies": [
       "Distressed Assets",
@@ -669,6 +704,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "e68a96a8-969d-42d6-8087-d91af13e6d1b",
     "name": "EYM Fund 17",
     "strategies": [
       "Venture Capital"
@@ -689,6 +725,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "66c45ff1-b527-4af5-ba25-65b14350ac1a",
     "name": "YXO Fund 30",
     "strategies": [
       "Mezzanine",
@@ -708,6 +745,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "dfd64cc0-bf34-4879-a20e-8448407da927",
     "name": "SUZ Fund 59",
     "strategies": [
       "Venture Capital",
@@ -727,6 +765,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "81c9071e-7773-4683-ad04-64b9772113c3",
     "name": "OOV Fund 86",
     "strategies": [
       "Growth Equity",
@@ -748,6 +787,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "18f5bafe-d5cb-4b2e-8112-4f4416b07d0b",
     "name": "AKE Fund 81",
     "strategies": [
       "Distressed Assets",
@@ -765,6 +805,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "11a0be9c-d234-474d-9218-af7dcdedcf50",
     "name": "YXG Fund 36",
     "strategies": [
       "Private Equity"
@@ -784,6 +825,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "dfbe3bac-7553-440e-b62d-871f9aae401b",
     "name": "TMS Fund 9",
     "strategies": [
       "Private Debt"
@@ -801,6 +843,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "bc0a61d6-838a-4b5d-bee3-ef99bf194255",
     "name": "TOI Fund 96",
     "strategies": [
       "Real Estate"
@@ -818,6 +861,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "c28e3543-76d6-4757-b1a1-b1f9bb110e09",
     "name": "ARO Fund 57",
     "strategies": [
       "Real Estate",
@@ -838,6 +882,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "773a1962-c497-48e7-ba90-963135ebf92e",
     "name": "PGN Fund 87",
     "strategies": [
       "Buyout",
@@ -856,6 +901,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "122421ff-a4bb-4752-aca3-9f8b866b90fe",
     "name": "TIJ Fund 25",
     "strategies": [
       "Real Estate"
@@ -873,6 +919,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "1cdb51ad-e584-4bb0-a6fb-5715a2e5e3e9",
     "name": "QPW Fund 88",
     "strategies": [
       "Distressed Assets",
@@ -891,6 +938,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "3ebafcca-97b0-4139-8122-db13e79cea8e",
     "name": "JZB Fund 80",
     "strategies": [
       "Venture Capital",
@@ -911,6 +959,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "f2ed972f-8b02-464a-a557-5221b2a18570",
     "name": "DLM Fund 27",
     "strategies": [
       "Growth Equity",
@@ -930,6 +979,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "14932185-24a0-488b-99d3-7cc1aba4af62",
     "name": "GSK Fund 20",
     "strategies": [
       "Distressed Assets",
@@ -950,6 +1000,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "c3719736-8d15-4bcf-9aa0-42fb6debf8af",
     "name": "CNF Fund 5",
     "strategies": [
       "Private Equity",
@@ -970,6 +1021,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "fc1e43f0-dc51-4457-9e94-40fc6561e384",
     "name": "TCO Fund 22",
     "strategies": [
       "Real Estate",
@@ -990,6 +1042,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "6cbf1138-9ea4-4df0-8705-19658b77fa08",
     "name": "DXU Fund 36",
     "strategies": [
       "Growth Equity",
@@ -1007,6 +1060,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "84bb2cc9-da80-4b38-af83-a9665c0e1b55",
     "name": "JCW Fund 43",
     "strategies": [
       "Private Equity",
@@ -1027,6 +1081,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "e3c0621b-dda3-40e3-8d1f-0cc2a1171fd3",
     "name": "DHH Fund 32",
     "strategies": [
       "Mezzanine"
@@ -1045,6 +1100,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "c6994d9d-ccff-4ae9-babf-6a2ba06ef10d",
     "name": "XXC Fund 55",
     "strategies": [
       "Buyout"
@@ -1063,6 +1119,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "5c1e15f4-4b03-44eb-bde9-9a4e69b1da90",
     "name": "CZO Fund 84",
     "strategies": [
       "Real Estate",
@@ -1084,6 +1141,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "5f4a6035-b78a-4616-8e9e-e1ec31a12a6a",
     "name": "VNJ Fund 44",
     "strategies": [
       "Private Equity",
@@ -1103,6 +1161,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "863f26ab-feee-4c6c-a12e-9181acf0a2c0",
     "name": "ALJ Fund 62",
     "strategies": [
       "Venture Capital"
@@ -1121,6 +1180,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "b692886c-8e58-48cc-9bb6-8b04408d5198",
     "name": "BVQ Fund 13",
     "strategies": [
       "Growth Equity",
@@ -1141,6 +1201,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "22bc60cd-9143-4a49-b9b6-2eb7457ec69d",
     "name": "DZJ Fund 65",
     "strategies": [
       "Private Debt"
@@ -1161,6 +1222,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "e82024e6-a040-4294-af98-64e627bdb732",
     "name": "JTQ Fund 68",
     "strategies": [
       "Private Equity",
@@ -1180,6 +1242,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "0e046c74-f70d-47af-b2cf-a6de944ec07e",
     "name": "ZTT Fund 47",
     "strategies": [
       "Mezzanine"
@@ -1197,6 +1260,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "23fa0360-dfc4-487e-83ff-1b7eeab50b71",
     "name": "FIK Fund 22",
     "strategies": [
       "Private Equity",
@@ -1215,6 +1279,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "c49fcffe-94a6-4bef-9ae4-c7e92db51c9d",
     "name": "MHA Fund 30",
     "strategies": [
       "Infrastructure",
@@ -1236,6 +1301,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "59b92b64-26df-4070-8850-56ce8056eb14",
     "name": "XII Fund 72",
     "strategies": [
       "Growth Equity",
@@ -1254,6 +1320,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "7ab3b2f2-8ff1-44ff-bd79-29cec3980123",
     "name": "RNL Fund 42",
     "strategies": [
       "Infrastructure"
@@ -1273,6 +1340,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "c0825013-a78c-4440-8e27-c43e316be4ca",
     "name": "PWP Fund 16",
     "strategies": [
       "Growth Equity"
@@ -1291,6 +1359,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "58aca985-4b9b-457d-b3a3-1896a8c7d234",
     "name": "UVR Fund 68",
     "strategies": [
       "Private Debt"
@@ -1308,6 +1377,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "b0481682-40a9-46a3-be72-7a428acba57f",
     "name": "FUL Fund 69",
     "strategies": [
       "Private Debt",
@@ -1325,6 +1395,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "cf8cbf17-f832-45cd-9862-fad5823e7d28",
     "name": "HFT Fund 61",
     "strategies": [
       "Growth Equity",
@@ -1344,6 +1415,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "a3cd190a-cf78-4a95-90cb-b50bbac91098",
     "name": "BTG Fund 73",
     "strategies": [
       "Mezzanine"
@@ -1360,6 +1432,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "511418aa-8696-48d9-875b-f5a99b263114",
     "name": "HMR Fund 32",
     "strategies": [
       "Private Equity"
@@ -1377,6 +1450,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "fc3919d1-cb67-4762-b0d3-a32427ace37e",
     "name": "MIR Fund 32",
     "strategies": [
       "Real Estate",
@@ -1397,6 +1471,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "02dbe063-d920-4c0d-8244-72af6a66b370",
     "name": "WQP Fund 13",
     "strategies": [
       "Growth Equity"
@@ -1415,6 +1490,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "7c7eb3c2-4bab-4dfb-a88e-caae32b7098c",
     "name": "QIM Fund 10",
     "strategies": [
       "Mezzanine",
@@ -1432,6 +1508,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "143c2d46-33c3-409f-bf25-27c751ec4c3e",
     "name": "RHB Fund 17",
     "strategies": [
       "Growth Equity",
@@ -1452,6 +1529,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "9efb208b-d680-4644-9764-7a78dc657ea9",
     "name": "BBK Fund 60",
     "strategies": [
       "Distressed Assets",
@@ -1471,6 +1549,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "e9fb17b3-c2b6-4fe3-9f43-875f01fde303",
     "name": "LTJ Fund 95",
     "strategies": [
       "Hedge Fund",
@@ -1491,6 +1570,7 @@
     "description": "Specializes in distressed debt opportunities."
   },
   {
+    "id": "488727de-be87-48a2-8a4a-dc2aa70283ec",
     "name": "VSN Fund 13",
     "strategies": [
       "Private Equity",
@@ -1511,6 +1591,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "09a93329-0523-4334-9c22-4606aaa78602",
     "name": "UWR Fund 57",
     "strategies": [
       "Hedge Fund",
@@ -1531,6 +1612,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "b64da0e0-8186-4127-a467-9f9c8a838c05",
     "name": "JFO Fund 13",
     "strategies": [
       "Venture Capital",
@@ -1550,6 +1632,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "74366bca-c9bb-4932-8bfb-9ec81679b5de",
     "name": "RLN Fund 18",
     "strategies": [
       "Distressed Assets",
@@ -1569,6 +1652,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "0d85820d-e1b8-4009-b464-5acc97991b96",
     "name": "HDZ Fund 19",
     "strategies": [
       "Real Estate"
@@ -1585,6 +1669,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "fff28ffc-e66d-49c9-b094-4ea6abfbd7cf",
     "name": "AVV Fund 20",
     "strategies": [
       "Buyout",
@@ -1605,6 +1690,7 @@
     "description": "Hedge fund with a long/short equity strategy."
   },
   {
+    "id": "4b7ab480-f2fd-49db-8980-b295fe173538",
     "name": "ATS Fund 63",
     "strategies": [
       "Distressed Assets",
@@ -1624,6 +1710,7 @@
     "description": "Mezzanine financing for late-stage startups."
   },
   {
+    "id": "2a2b46f5-75f3-4546-a116-5c6091b09233",
     "name": "EMB Fund 30",
     "strategies": [
       "Buyout",
@@ -1644,6 +1731,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "bf53387d-7d47-4288-84f2-23176f23c06a",
     "name": "OCG Fund 61",
     "strategies": [
       "Buyout",
@@ -1663,6 +1751,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "ec5ffea5-72ac-422c-bbdb-839d474cd7cf",
     "name": "QXG Fund 4",
     "strategies": [
       "Distressed Assets"
@@ -1682,6 +1771,7 @@
     "description": "Focused on early-stage tech companies."
   },
   {
+    "id": "b9644256-6bbf-4b9e-b7b6-7672d1ef345e",
     "name": "PWV Fund 80",
     "strategies": [
       "Hedge Fund",
@@ -1700,6 +1790,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "31c3f2de-d843-4d5d-8e5c-1beb763d67af",
     "name": "OTQ Fund 73",
     "strategies": [
       "Mezzanine",
@@ -1719,6 +1810,7 @@
     "description": "Growth equity fund for mid-sized enterprises."
   },
   {
+    "id": "ed2d5162-a994-49f9-92ef-afa5d8ad8fda",
     "name": "LYS Fund 65",
     "strategies": [
       "Buyout"
@@ -1737,6 +1829,7 @@
     "description": "Private equity fund with a global mandate."
   },
   {
+    "id": "f5074021-2900-45bd-8cc7-ae1acc376965",
     "name": "QQU Fund 51",
     "strategies": [
       "Buyout",
@@ -1758,6 +1851,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "10e2ab17-b2cb-4c0b-af83-8aa15a3b15d0",
     "name": "BLM Fund 21",
     "strategies": [
       "Venture Capital"
@@ -1774,6 +1868,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "f43f1732-68ac-4a47-8838-ddb5948fa5b3",
     "name": "XEQ Fund 81",
     "strategies": [
       "Distressed Assets"
@@ -1793,6 +1888,7 @@
     "description": "Invests in renewable energy infrastructure."
   },
   {
+    "id": "44beabd8-1305-4d02-9357-ed9a2d3a55fa",
     "name": "ATB Fund 14",
     "strategies": [
       "Growth Equity"
@@ -1811,6 +1907,7 @@
     "description": "Targets undervalued real estate in emerging markets."
   },
   {
+    "id": "20309371-24a0-4f11-81f4-8f730b92e6d2",
     "name": "NQK Fund 94",
     "strategies": [
       "Mezzanine",
@@ -1831,6 +1928,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "3ff4c381-a4ec-4887-81e1-e20a7d6edf85",
     "name": "ZGC Fund 66",
     "strategies": [
       "Infrastructure"
@@ -1849,6 +1947,7 @@
     "description": "Diversified across multiple sectors and regions."
   },
   {
+    "id": "7c2fb135-e024-46bf-be9c-bbb67d6bfbe3",
     "name": "LIL Fund 96",
     "strategies": [
       "Real Estate"
@@ -1867,6 +1966,7 @@
     "description": "Real estate investments in developed urban areas."
   },
   {
+    "id": "d5921e7f-c952-415f-8bbd-660c5820a893",
     "name": "MCP Fund 9",
     "strategies": [
       "Mezzanine"
