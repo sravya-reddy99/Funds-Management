@@ -113,17 +113,24 @@ export class AdminTableComponent implements OnInit {
   });
 
   pageRange = computed(() => {
-    const current = this.page();
-    const total = this.totalPages();
-    const window = 2;
+  const total = this.totalPages();
+  const current = this.page();
+  const delta = 2;
 
-    const start = Math.max(1, current - window);
-    const end = Math.min(total, current + window);
+  const range: number[] = [];
 
-    const pages: number[] = [];
-    for (let i = start; i <= end; i++) pages.push(i);
-    return pages;
-  });
+  for (let i = 1; i <= total; i++) {
+    if (
+      i === 1 ||
+      i === total ||
+      (i >= current - delta && i <= current + delta)
+    ) {
+      range.push(i);
+    }
+  }
+
+  return range;
+});
 
   constructor(private fundsApi: FundsService) {}
 

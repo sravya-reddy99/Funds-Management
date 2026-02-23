@@ -27,7 +27,11 @@
       <div class="grid">
         <div class="field">
           <label>Name contains</label>
-          <input [(ngModel)]="fName" (ngModelChange)="onFilterChanged()" placeholder="e.g., Fund 3" />
+          <input
+            [(ngModel)]="fName"
+            (ngModelChange)="onFilterChanged()"
+            placeholder="e.g., Fund 3"
+          />
         </div>
 
         <div class="field">
@@ -64,27 +68,51 @@
 
         <div class="field">
           <label>Description contains</label>
-          <input [(ngModel)]="fDescription" (ngModelChange)="onFilterChanged()" placeholder="e.g., long/short equity" />
+          <input
+            [(ngModel)]="fDescription"
+            (ngModelChange)="onFilterChanged()"
+            placeholder="e.g., long/short equity"
+          />
         </div>
 
         <div class="field">
           <label>Fund Size min</label>
-          <input type="number" [(ngModel)]="fundSizeMin" (ngModelChange)="onFilterChanged()" placeholder="0" />
+          <input
+            type="number"
+            [(ngModel)]="fundSizeMin"
+            (ngModelChange)="onFilterChanged()"
+            placeholder="0"
+          />
         </div>
 
         <div class="field">
           <label>Fund Size max</label>
-          <input type="number" [(ngModel)]="fundSizeMax" (ngModelChange)="onFilterChanged()" placeholder="5000" />
+          <input
+            type="number"
+            [(ngModel)]="fundSizeMax"
+            (ngModelChange)="onFilterChanged()"
+            placeholder="5000"
+          />
         </div>
 
         <div class="field">
           <label>Vintage min</label>
-          <input type="number" [(ngModel)]="vintageMin" (ngModelChange)="onFilterChanged()" placeholder="1990" />
+          <input
+            type="number"
+            [(ngModel)]="vintageMin"
+            (ngModelChange)="onFilterChanged()"
+            placeholder="1990"
+          />
         </div>
 
         <div class="field">
           <label>Vintage max</label>
-          <input type="number" [(ngModel)]="vintageMax" (ngModelChange)="onFilterChanged()" placeholder="2025" />
+          <input
+            type="number"
+            [(ngModel)]="vintageMax"
+            (ngModelChange)="onFilterChanged()"
+            placeholder="2025"
+          />
         </div>
       </div>
     </section>
@@ -92,12 +120,13 @@
     <section class="card table-card">
       <div class="table-top">
         <div class="count">
-            Showing
-            <b>{{ pageItems().length }}</b>
-            of
-            <b>{{ totalItems() }}</b>
-            matching results
+          Showing
+          <b>{{ pageItems().length }}</b>
+          of
+          <b>{{ totalItems() }}</b>
+          matching results
         </div>
+
         <div class="right-tools">
           <div class="sort">
             <span class="muted">Sort:</span>
@@ -183,47 +212,33 @@
         </table>
       </div>
 
-      <!-- Pagination Footer -->
+      <!-- Pagination Footer (NO DUPLICATES) -->
       <div class="pager" *ngIf="!loading() && !error() && totalItems() > 0">
         <div class="pager-left">
           <button class="btn ghost" (click)="prevPage()" [disabled]="page() === 1">← Prev</button>
           <button class="btn ghost" (click)="nextPage()" [disabled]="page() === totalPages()">Next →</button>
+
           <span class="pager-info">
             Page <b>{{ page() }}</b> of <b>{{ totalPages() }}</b>
           </span>
         </div>
 
         <div class="pager-right">
-          <button
-            class="page-btn"
-            [class.active]="page() === 1"
-            (click)="setPage(1)"
-            *ngIf="totalPages() > 1"
-          >
-            1
-          </button>
+          <ng-container *ngFor="let p of pageRange(); let i = index">
+            <!-- Dots when there is a gap -->
+            <span
+              class="dots"
+              *ngIf="i > 0 && (p - pageRange()[i - 1]) > 1"
+            >…</span>
 
-          <span class="dots" *ngIf="pageRange()[0] > 2">…</span>
-
-          <button
-            class="page-btn"
-            *ngFor="let p of pageRange()"
-            [class.active]="page() === p"
-            (click)="setPage(p)"
-          >
-            {{ p }}
-          </button>
-
-          <span class="dots" *ngIf="pageRange()[pageRange().length - 1] < totalPages() - 1">…</span>
-
-          <button
-            class="page-btn"
-            [class.active]="page() === totalPages()"
-            (click)="setPage(totalPages())"
-            *ngIf="totalPages() > 1"
-          >
-            {{ totalPages() }}
-          </button>
+            <button
+              class="page-btn"
+              [class.active]="page() === p"
+              (click)="setPage(p)"
+            >
+              {{ p }}
+            </button>
+          </ng-container>
         </div>
       </div>
     </section>
